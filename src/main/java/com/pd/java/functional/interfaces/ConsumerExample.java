@@ -1,5 +1,8 @@
 package com.pd.java.functional.interfaces;
 
+import com.pd.java.data.Student;
+import com.pd.java.data.StudentDataBase;
+
 import java.util.List;
 import java.util.function.Consumer;
 
