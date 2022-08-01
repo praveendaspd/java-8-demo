@@ -1,4 +1,4 @@
-package com.pd.java.functional.interfaces;
+package com.pd.java.data;
 
 import java.util.ArrayList;
 import java.util.List;
